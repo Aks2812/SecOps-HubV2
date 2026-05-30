@@ -1,0 +1,1 @@
+{"id":"alert-0001","timestamp":"2026-05-30T08:14:22Z","source":"Firewall","severity":"high","raw_text":"outbound from WIN-FIN-03 10.0.0.5 to 185.220.101.47 over port 443; PowerShell EncodedCommand beacon; possible exploitation of CVE-2024-3094"}

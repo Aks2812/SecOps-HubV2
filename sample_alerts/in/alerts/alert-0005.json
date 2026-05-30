@@ -1,0 +1,1 @@
+{"id":"alert-0005","timestamp":"2026-05-30T08:22:33Z","source":"IDS","severity":"info","raw_text":"Routine internal DNS lookup for printer.local from 10.0.0.22; no threat indicators"}

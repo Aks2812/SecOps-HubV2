@@ -1,0 +1,4 @@
+{
+  "alert_id": "alert-001",
+  "raw_text": "outbound from 10.0.0.5 to 185.220.101.47 over port 443; PowerShell EncodedCommand downloading from http://evil-c2.xyz/beacon; possible CVE-2024-3094"
+}

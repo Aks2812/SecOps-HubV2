@@ -1,0 +1,4 @@
+{
+  "alert_id": "alert-004",
+  "raw_text": "PowerShell EncodedCommand from http://evil-c2.xyz/beacon; CVE-2024-3094"
+}

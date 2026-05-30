@@ -1,0 +1,1 @@
+{"id":"alert-0002","timestamp":"2026-05-30T08:16:05Z","source":"EDR","severity":"high","raw_text":"Malware execution detected: file SHA256 275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f run on host FIN-WS-08 via powershell"}

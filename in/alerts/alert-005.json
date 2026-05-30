@@ -1,0 +1,4 @@
+{
+  "alert_id": "alert-005",
+  "raw_text": "Suspicious login from 8.8.8.8 to https://evil.example/path"
+}
