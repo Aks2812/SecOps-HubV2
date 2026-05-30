@@ -77,6 +77,10 @@ secops-hub/
     ├── investigate.py
     └── batch.py
 ```
+<img width="1919" height="1079" alt="Screenshot 2026-05-30 145934" src="https://github.com/user-attachments/assets/3d863d54-3152-4e36-9c02-9031c455100d" />
+<img width="1046" height="758" alt="Screenshot 2026-05-30 151032" src="https://github.com/user-attachments/assets/4f41b49e-52cd-4a5c-9e6a-d7aa863ea2e3" />
+
+
 
 ## Contract
 
