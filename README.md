@@ -1,6 +1,6 @@
 # SecOps-HubV2
 
-An all-in-one, zero-dependency security operations command-line toolkit that does what most paid SOAR platforms can't: triage, CVE intelligence, detection rule authoring, and full-alert investigation in under one second.
+An all-in-one, zero-dependency security operations command-line toolkit that does what most paid SOAR platforms can't triage, CVE intelligence, detection rule authoring, and full-alert investigation in under one second.
 <img width="682" height="931" alt="Screenshot 2026-05-30 162316" src="https://github.com/user-attachments/assets/d6fa51c4-ebdc-4bc0-ba45-f86614a0de72" />
 <img width="686" height="946" alt="Screenshot 2026-05-30 162332" src="https://github.com/user-attachments/assets/96ef8ee4-86e3-4f6a-9fdf-0475a0aa5ba9" />
 
