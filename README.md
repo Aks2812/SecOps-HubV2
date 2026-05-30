@@ -1,6 +1,8 @@
 # SecOps-HubV2
 
-An all-in-one, zero-dependency security operations command-line toolkit that does what most paid SOAR platforms can't: triage, CVE intelligence, detection rule authoring, and full-alert investigation — in under one second.
+An all-in-one, zero-dependency security operations command-line toolkit that does what most paid SOAR platforms can't: triage, CVE intelligence, detection rule authoring, and full-alert investigation in under one second.
+<img width="1046" height="758" alt="Screenshot 2026-05-30 151032" src="https://github.com/user-attachments/assets/e7d25ce5-614d-41f3-b3d2-6455b2e28d0c" />
+<img width="1919" height="1079" alt="Screenshot 2026-05-30 145934" src="https://github.com/user-attachments/assets/bc8e77dc-9869-4f0d-9b19-2866bee9d391" />
 
 ## Why This Exists
 
@@ -77,11 +79,6 @@ secops-hub/
     ├── investigate.py
     └── batch.py
 ```
-<img width="1919" height="1079" alt="Screenshot 2026-05-30 145934" src="https://github.com/user-attachments/assets/3d863d54-3152-4e36-9c02-9031c455100d" />
-<img width="1046" height="758" alt="Screenshot 2026-05-30 151032" src="https://github.com/user-attachments/assets/4f41b49e-52cd-4a5c-9e6a-d7aa863ea2e3" />
-
-
-
 ## Contract
 
 Every script accepts a single string argument and prints exactly one JSON object to stdout with the keys `severity`, `summary`, `mitre`, and `action`. The `investigate.py` orchestrator additionally writes a full Markdown report and a styled HTML file to the project root.
