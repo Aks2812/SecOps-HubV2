@@ -1,4 +1,4 @@
-# SecOps-HubV2
+# SecOps-HubV2 | TRAE SOLO HACKATHON 30/05/2026
 
 An all-in-one, zero-dependency security operations command-line toolkit that does what most paid SOAR platforms can't triage, CVE intelligence, detection rule authoring, and full-alert investigation in under one second.
 <img width="682" height="931" alt="Screenshot 2026-05-30 162316" src="https://github.com/user-attachments/assets/d6fa51c4-ebdc-4bc0-ba45-f86614a0de72" />
